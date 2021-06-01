@@ -45,9 +45,17 @@ html, body {
 .pul{
   height: auto;
   width: 350px;
+  margin-top: 10px;
+  border: 10px solid white;
+  background-color: white;
+}
+#pic-row{
+  float:right;
 }
 
 #borderthis{
+  width: 450px;
+  height: auto;
   outline: solid 5px transparent;
   transition: border 3s ease-out 100ms;
 }
@@ -86,4 +94,9 @@ a{
 .linkedimage{
   width: 18%;
   height: auto;
+}
+
+
+#test{
+background-image:  url(./static/images/JENNYPIC2.png);
 }
