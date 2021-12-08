@@ -44,10 +44,10 @@ html, body {
 }
 .pul{
   height: auto;
-  width: 350px;
   margin-top: 10px;
-  border: 10px solid white;
-  background-color: white;
+  width: 400px;
+  /* border: 10px solid white;
+  background-color: white; */
 }
 #pic-row{
   float:right;
@@ -84,7 +84,7 @@ a{
   font-size: 23px;
 }
 .experienceinfo{
-  font-size: 20px;
+  font-size: 23px;
 }
 
 .gitimage{
@@ -99,4 +99,10 @@ a{
 
 #test{
 background-image:  url(./static/images/JENNYPIC2.png);
+}
+
+
+.jobTitle{
+  font-size: 18px;
+  font-style: italic;
 }
